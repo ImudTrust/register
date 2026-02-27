@@ -1,6 +1,7 @@
 {
   "owner": {
-    "username": "ImudTrust"
+    "username": "ImudTrust",
+    "email": "nightware.win@gmail.com"
   },
   "record": {
     "CNAME": "liquid-theta.vercel.app"
